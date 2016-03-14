@@ -26,9 +26,14 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/Hw4-surfweb/Hw3/SecondSet/04Bool/main.go" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Hw4-surfweb/Hw3/SecondSet/05Foo/main.go" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Hw4-surfweb/Hw3/SecondSet/06Euler/main.go" afterPath="" />
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hw4-surfweb" afterPath="$PROJECT_DIR$/Hw4-surfweb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Homework.iml" afterPath="$PROJECT_DIR$/.idea/Homework.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+=======
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hw3/FirstSet/02HelloName/main.go" afterPath="$PROJECT_DIR$/Hw3/FirstSet/02HelloName/main.go" />
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hw4-surfweb/css/main.css" afterPath="$PROJECT_DIR$/Hw4-surfweb/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Hw4-surfweb/main.go" afterPath="$PROJECT_DIR$/Hw4-surfweb/main.go" />
     </list>
@@ -50,19 +55,39 @@
     <favorites_list name="Homework" />
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf />
+=======
+    <leaf>
+      <file leaf-file-name="surf.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hw4-surfweb/css/surf.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
         <option value="Go File" />
+<<<<<<< HEAD
         <option value="HTML File" />
+=======
+        <option value="CSS File" />
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+<<<<<<< HEAD
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+=======
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Hw4-surfweb" />
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -91,6 +116,7 @@
         <option value="$PROJECT_DIR$/Hw4-surfweb/surfPage.html" />
         <option value="$PROJECT_DIR$/Hw4-surfweb/main.go" />
         <option value="$PROJECT_DIR$/Hw4-surfweb/css/main.css" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Hw9/main.go" />
         <option value="$PROJECT_DIR$/Hw10/main.go" />
         <option value="$PROJECT_DIR$/Hw11/main.go" />
@@ -100,6 +126,8 @@
         <option value="$PROJECT_DIR$/Hw23-ProjectPart2/main.go" />
         <option value="$PROJECT_DIR$/Hw24-ProjectPart3/main.go" />
         <option value="$PROJECT_DIR$/Hw24-ProjectPart3/template.html" />
+=======
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
       </list>
     </option>
   </component>
@@ -109,8 +137,13 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="256" />
     <option name="y" value="24" />
+=======
+    <option name="x" value="1280" />
+    <option name="y" value="23" />
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
     <option name="width" value="1024" />
     <option name="height" value="693" />
   </component>
@@ -139,12 +172,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="Homework" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -159,8 +198,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,8 +208,11 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/CarlosDaccarett/WebstormProjects/Homework/Hw3/SecondSet/05Foo/main.go" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+<<<<<<< HEAD
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+=======
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -230,15 +270,26 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="256" y="24" width="1024" height="693" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17248255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+    <frame x="1280" y="23" width="1024" height="693" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17248255" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3747927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37603992" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -259,6 +310,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Hw11/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -267,12 +319,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Hw9/main.go">
+=======
+    <entry file="file://$PROJECT_DIR$/Hw4-surfweb/surfPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hw3/FirstSet/02HelloName/main.go">
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Hw4-surfweb/css/surf.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -282,16 +345,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+=======
+    <entry file="file://$PROJECT_DIR$/Hw3/FirstSet/02HelloName/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Hw3/FirstSet/02HelloName/main.go">
+    <entry file="file://$PROJECT_DIR$/Hw3/SecondSet/06Euler/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Hw3/FirstSet/02HelloName/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -330,6 +400,32 @@
     <entry file="file://$PROJECT_DIR$/Hw3/FirstSet/05EvenNums/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+=======
+    <entry file="file://$PROJECT_DIR$/Hw1/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44474393">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hw1/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hw3/FirstSet/04Remainder/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hw3/FirstSet/05EvenNums/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
@@ -429,6 +525,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.63909775">
           <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -499,10 +596,15 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="e#14#73#0" expanded="true" />
+=======
+          <folding>
+            <element signature="e#14#60#0" expanded="true" />
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Hw24-ProjectPart3/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38681948">
@@ -519,6 +621,19 @@
           <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
           <folding />
         </state>
+=======
+    <entry file="file://$PROJECT_DIR$/Hw4-surfweb/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.76">
+          <caret line="44" column="1" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hw4-surfweb/css/surf.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+>>>>>>> 26a0ecc1232e62f27b2f88793c47d3443b50431c
       </provider>
     </entry>
   </component>
