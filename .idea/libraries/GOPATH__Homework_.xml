@@ -1,16 +1,14 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;Homework&gt;">
     <CLASSES>
-      <root url="file://$USER_HOME$/Documents/goworkspace/src/.DS_Store" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/google.golang.org" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/golang.org" />
+      <root url="file://$USER_HOME$/Documents/goworkspace/src/go_appengine" />
       <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com" />
     </CLASSES>
     <SOURCES />
     <excluded>
-      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/GoesToEleven/GolangTraining/.git" />
-      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/cdaccarett93/GoTraining/.git" />
       <root url="file://$PROJECT_DIR$" />
-      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/hello/.idea" />
-      <root url="file://$USER_HOME$/Documents/goworkspace/src/github.com/cdaccarett93/GoTraining/.idea" />
     </excluded>
   </library>
 </component>
